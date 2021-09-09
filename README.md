@@ -1,2 +1,2 @@
 # Data-preprocessing
-These files is for data preprocessing in practice using Python.
+These files is for practice of data preprocessing using Python.
